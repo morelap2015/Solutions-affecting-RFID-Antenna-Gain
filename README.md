@@ -3,6 +3,8 @@ This was the final project for Professor Omid Abari's CS219 Advanced IoT &amp; C
 
 I started this project with Rathin Singha (Github: rsingha108) in Winter 22 and continued it with Sirapop "Mark" Theeranantachai (Github: markverick) in Spring 23.
 
+I am now further continuing this project with Professor Abari as the capstone for my Master's in Computer Science at UCLA.
+
 This repo contains the following:
 1. NFC-RFIDAntn_gain.ino - Our code to measure Antenna Gain
 2. Reports Folder - Folder containing Winter 22 and Spring 23 reports for these projects.
